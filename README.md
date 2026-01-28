@@ -29,4 +29,5 @@ if
 ### An exmaple of a link:
 My github profile can be found [here](https://github.com/michael-savo)
 
+### Picture of a dog
 ![Image of a dog](https://eu-central-1.graphassets.com/AnwjgMYRvQfWK3bRPjoq3z/resize=height:404,width:718/output=format:webp/RxffRm3xS92rsrUFk3qX)
